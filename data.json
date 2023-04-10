@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "name": "Dolo 650",
+        "description": "Dolo 650 is a popular painkiller that contains paracetamol (also known as acetaminophen) as its active ingredient. It is used to relieve mild to moderate pain, fever, and headache.",
+        "uses": "Relieves mild to moderate pain\nReduces fever\nRelieves headache\nRelieves pain associated with menstruation\nRelieves toothache\nRelieves backache\nRelieves joint pain\nRelieves pain associated with arthritis",
+        "side_effects": "Dolo 650 is generally considered safe when taken in recommended doses. However, like all medications, it may cause side effects in some people. Common side effects of Dolo 650 include:\nNausea\nVomiting\nStomach pain\nAllergic reactions\nSkin rash\nLiver damage (rare)",
+        "dosage": "Adults: The recommended dose is one to two tablets (650-1300 mg) every four to six hours, with a maximum daily dose of 4 grams (eight tablets).\nChildren: The recommended dose for children is based on their weight. The general guideline is 10-15 mg/kg every four to six hours, with a maximum daily dose of 60 mg/kg.",
+        "ingredients": "Each Dolo 650 tablet contains 650 mg of paracetamol (acetaminophen) as its active ingredient. It also contains other inactive ingredients such as croscarmellose sodium, povidone, and stearic acid.",
+        "note": "It is important to consult with a healthcare professional before taking any medication, including Dolo 650, to ensure that it is safe for you to take and to determine the appropriate dosage.",
+        "img": "./images/Dolo650.JPG"
+    },
+    {
+        "id": 2,
+        "name": "B complex tablets",
+        "description": "B complex tablets are dietary supplements that contain a combination of B vitamins, including thiamine (B1), riboflavin (B2), niacin (B3), pantothenic acid (B5), pyridoxine (B6), biotin (B7), folate (B9), and cobalamin (B12). These vitamins play important roles in many bodily functions, including energy production, immune system function, and the maintenance of healthy skin, hair, and eyes.",
+        "uses": "B complex tablets are commonly used to help support healthy nervous system function, promote energy production, and maintain healthy skin, hair, and eyes. They may also be used to help alleviate symptoms of vitamin B deficiencies, such as anemia, fatigue, and weakness.",
+        "side_effects": "When taken as directed, B complex tablets are generally safe and well-tolerated. However, some individuals may experience side effects, such as nausea, stomach upset, and diarrhea. In rare cases, high doses of certain B vitamins can lead to more serious side effects, such as nerve damage or liver damage.",
+        "dosage": "The dosage of B complex tablets can vary depending on the specific product and the individual's needs. It is important to follow the instructions on the product label or as directed by a healthcare professional. In general, adults may take one tablet per day, preferably with a meal.",
+        "ingredients": "The exact ingredients in B complex tablets can vary depending on the specific product. However, they typically contain a combination of B vitamins, along with other ingredients such as fillers, binders, and preservatives. It is important to read the product label carefully to understand what ingredients are included and to check for any potential allergens.",
+        "note": "It is important to consult with a healthcare professional before taking any dietary supplement, including B complex tablets, to ensure that it is safe for you to take and to determine the appropriate dosage.",
+        "img": "./images/BComplex.JPG"
+    },
+    {
+        "id": 3,
+        "name": "Bosutinib",
+        "description": "Bosutinib is a medication that belongs to a class of drugs known as tyrosine kinase inhibitors. It is used to treat chronic myelogenous leukemia (CML) in adults who have already received prior treatment with other medications.",
+        "uses": "Blocks the action of the BCR-ABL protein to slow the growth and spread of cancer cells\nTreats chronic myelogenous leukemia (CML) in adults who have already received prior treatment with other medications",
+        "side_effects": "Common: diarrhea, nausea, vomiting, abdominal pain, fatigue, headache, rash, and swelling in the hands or feet\nSerious: bleeding, infection, liver problems, heart problems, and lung problems",
+        "dosage": "Available in 100mg and 500mg strengths\nRecommended starting dose is 400mg once daily, with or without food\nDose may be adjusted based on individual patient factors",
+        "ingredients": "Active ingredient: bosutinib monohydrate\nInactive ingredients may include microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, and magnesium stearate",
+        "note": "Bosutinib should only be taken under the guidance of a healthcare professional who is familiar with its uses, side effects, and dosage recommendations.",
+        "img": "./images/Bosutris500.JPG"
+    },
+    {
+        "id": 4,
+        "name": "Citrus Bioflavonoids",
+        "description": "Citrus bioflavonoids are plant compounds found in the pulp and rind of citrus fruits such as oranges, grapefruits, and lemons. They are often sold in the form of supplements, including citrus bioflavonoid tablets.",
+        "uses": "Supports overall health and wellbeing\nReduces inflammation and oxidative stress in the body\nBoosts the immune system\nImproves cardiovascular health by reducing cholesterol levels and blood pressure\nSupports skin health by protecting against UV damage and promoting collagen production\nSupports eye health and reduces the risk of cataracts and macular degeneration\nAlleviates allergy symptoms",
+        "side_effects": "Mild: upset stomach, headache, diarrhea, nausea\n",
+        "dosage": "Recommended dosage varies depending on the specific product and the individual's needs\nIt's important to follow the instructions on the product label or to consult with a healthcare provider to determine the appropriate dosage",
+        "ingredients": "Active ingredients: citrus bioflavonoids\nOther common ingredients may include vitamin C, rutin, hesperidin, quercetin, eriocitrin, and naringenin\nSupplements may contain higher concentrations than what is found in food\nTalk to a healthcare provider before taking any new dietary supplement",
+        "note": "Citrus bioflavonoid supplements are generally considered safe when taken as directed",
+        "img": "./images/Citrus.JPG"
+    },
+    {
+        "id": 5,
+        "name": "Digene Tablet",
+        "description": "Digene Tablet is an antacid medication used to relieve symptoms associated with acidity, heartburn, indigestion, and gas. It works by neutralizing stomach acid and reducing the amount of acid produced in the stomach.",
+        "uses": "Relief of symptoms related to acidity, heartburn, indigestion, and gas. Treatment of peptic ulcer disease (stomach or duodenal ulcer). Preventing stress ulcers in critically ill patients. Relief of symptoms of gastroesophageal reflux disease (GERD).",
+        "dosage": "The recommended dosage for adults is 2-3 tablets, 3-4 times a day. It is best to take Digene Tablets after meals and at bedtime. The maximum daily dosage should not exceed 12 tablets. The dosage may vary based on the severity of the symptoms, so it's always best to consult a doctor.",
+        "ingredients": "Digene Tablets contain the following active ingredients: Magnesium Hydroxide (400mg): An antacid that neutralizes stomach acid. Aluminium Hydroxide (400mg): An antacid that reduces the amount of acid produced in the stomach. Simethicone (20mg): An antiflatulent that helps to relieve gas and bloating.",
+        "side_effects": "The most common side effects of Digene Tablets include constipation, diarrhea, and stomach cramps. Rare side effects include headache, dizziness, dry mouth, and muscle weakness. Long-term use of antacids containing aluminum and magnesium can cause a build-up of these minerals in the body, leading to possible kidney problems.",
+        "note": "It's always best to consult a doctor before taking any medication, including Digene Tablets, to ensure that it is safe and effective for your specific condition.",
+        "img": "./images/Digene.JPG"
+    },
+    {
+        "id": 6,
+        "name": "Metformin",
+        "description": "Metformin is a medication used to treat type 2 diabetes by decreasing the amount of glucose produced by the liver and improving insulin response.",
+        "uses": "Treats type 2 diabetes\nCan also be used to treat polycystic ovary syndrome (PCOS) and metabolic syndrome\nHelps to lower blood sugar levels by reducing glucose production by the liver and increasing insulin sensitivity",
+        "side_effects": "Common: nausea, vomiting, diarrhea, abdominal discomfort, headache, dizziness\nRare but serious: lactic acidosis, which can be life-threatening. Symptoms include weakness, tiredness, muscle pain, trouble breathing, stomach pain, and decreased heart rate",
+        "dosage": "Recommended starting dose is usually 500mg or 850mg once daily with a meal. Maximum recommended dose is 2,000mg per day.\nDosage may need to be adjusted based on patient's blood sugar levels and kidney function.\nShould be taken with food to reduce risk of gastrointestinal side effects.",
+        "ingredients": "Active ingredient: metformin hydrochloride\nInactive ingredients may vary depending on the brand and formulation of the medication, but may include microcrystalline cellulose, povidone, magnesium stearate, and hypromellose.\nMetformin should only be used under the guidance of a healthcare provider and should not be used to treat type 1 diabetes or diabetic ketoacidosis.\nPatients taking metformin should have regular monitoring of their blood sugar levels and kidney function.",
+        "img": "./images/Metformin.JPG"
+    },
+    {
+        "id": 7,
+        "name": "Panadol",
+        "description": "Panadol is a brand name for the generic drug paracetamol, which is used for the treatment of pain and fever.",
+        "uses": "Relieves mild to moderate pain, such as headaches, toothaches, menstrual cramps, and muscle aches.\nReduces fever.",
+        "side_effects": "Nausea and vomiting\nAllergic reactions such as skin rash or itching\nBlood disorders (very rare)\nLiver damage (if taken in high doses for prolonged periods)",
+        "dosage": "Recommended dosage varies based on age and weight. Maximum daily dose for adults is typically 4,000 milligrams.\nIt is important to follow the dosage instructions on the label or as directed by your doctor.",
+        "ingredients": "Active ingredient: paracetamol\nInactive ingredients may vary depending on the formulation, but may include starch, povidone, and pregelatinized maize starch.\nPanadol should not be taken with other medications that contain paracetamol, as this can lead to an overdose. Patients with underlying medical conditions or taking other medications should consult their doctor before taking Panadol.",
+        "img": "./images/Panadol.PNG"
+    },
+    {
+        "id": 8,
+        "name": "Saridon",
+        "description": "Saridon is a pain reliever medication composed of three active ingredients: paracetamol, propyphenazone, and caffeine. It is used to relieve mild to moderate pain associated with headaches, migraines, toothaches, menstrual cramps, and other types of pain.",
+        "uses": "Relieves mild to moderate pain, including headaches, migraines, toothaches, menstrual cramps, and other types of pain.",
+        "dosage": "The recommended dosage is one to two tablets taken orally, up to three times a day. Do not exceed the recommended dosage.",
+        "ingredients": "Active ingredients: Paracetamol (250mg), Propyphenazone (150mg), Caffeine (50mg).",
+        "side_effects": "Common side effects include nausea, vomiting, dizziness, lightheadedness, skin rash, and itching. Rarely, it may cause liver damage. Consult a doctor before taking Saridon, especially if you have any underlying medical conditions or if you're taking other medications.",
+        "img": "./images/Saridon.JPG"
+    },
+    {
+        "id": 9,
+        "name": "Tylenol",
+        "description": "Tylenol is commonly used to treat mild to moderate pain, such as headaches, menstrual cramps, toothaches, and muscle aches.\nIt can also be used to reduce fever.",
+        "uses": "Tylenol is commonly used to treat mild to moderate pain, such as headaches, menstrual cramps, toothaches, and muscle aches. It can also be used to reduce fever.",
+        "dosage": "The recommended dose of Tylenol for adults is 325 to 1000 mg every 4 to 6 hours, as needed for pain or fever. The maximum daily dose for adults is 4 grams (or 4000 mg) per day. The recommended dose for children varies by age and weight, so it is important to read the label and follow the instructions carefully.",
+        "ingredients": "The active ingredient in Tylenol is acetaminophen. Inactive ingredients may include croscarmellose sodium, corn starch, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and sodium starch glycolate.",
+        "side_effects": "When taken as directed, Tylenol is generally considered safe for most people. However, taking too much Tylenol can cause liver damage, especially when combined with alcohol or if you have pre-existing liver problems. Other potential side effects include allergic reactions, skin rash, and stomach upset.",
+        "note": "It's important to note that Tylenol may interact with other medications, so it's always a good idea to talk to your doctor or pharmacist before taking it, especially if you have any medical conditions or are taking any other medications.",
+        "img": "./images/Tylenol.JPG"
+    },
+    {
+        "id": 10,
+        "name": "Vasodox 400",
+        "description": "Vasodox 400 is a bronchodilator medication used to treat respiratory conditions like asthma, bronchitis, and COPD. It contains Doxofylline as its active ingredient.",
+        "uses": "Helps to widen the airways in the lungs, making it easier to breathe. Used to manage and treat respiratory conditions like asthma, bronchitis, and COPD.",
+        "dosage": "The usual recommended dose is one tablet (400 mg) twice daily, taken with or without food. Dosage may vary depending on the patient's age, weight, and other factors. Follow the instructions provided by your doctor or pharmacist and do not exceed the recommended dosage.",
+        "ingredients": "Active ingredient: Doxofylline (400 mg). Other ingredients: microcrystalline cellulose, povidone, croscarmellose sodium, magnesium stearate, and colloidal silicon dioxide.",
+        "side_effects": "May cause side effects like headache, nausea, vomiting, abdominal pain, diarrhea, dizziness, and palpitations. In rare cases, it may cause serious side effects like seizures, irregular heartbeat, or allergic reactions. Seek medical attention immediately if you experience any severe side effects or allergic reactions. Vasodox 400 should only be taken under the supervision of a doctor or healthcare professional.",
+        "img": "./images/Vasodox400.JPG"
+    }
+]
